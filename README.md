@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Who am I
+- I'm Oscar, a Y12 HSC student
+- I'm interested in fullstack development, particularly in web dev
+  - (Maths is also pretty cool)
+- I'm looking for a variety of experiences all across tech, so I'm open to work on anything!
+
 ### I'm currently learning / working on projects using:
 - **NextJS + React**
 - **NLP**
