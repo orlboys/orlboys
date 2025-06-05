@@ -1,4 +1,4 @@
-s## Hi there 👋
+## Hi there 👋
 
 ### Who am I
 - I'm Oscar, a Y12 HSC student
