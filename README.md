@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi !!👋
 
 ### Who am I
-- I'm Oscar, a Y12 HSC student
-- I'm interested in fullstack development, particularly in web dev
-  - (Maths is also pretty cool)
+- I'm Oscar, a first year adv computing student at ANU, looking to major in Machine Learning.
 - I'm looking for a variety of experiences all across tech, so I'm open to work on anything!
 
 ### I'm currently learning / working on projects using:
