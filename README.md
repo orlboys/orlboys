@@ -4,11 +4,6 @@
 - I'm Oscar, a first year adv computing student at ANU, looking to major in Machine Learning.
 - I'm looking for a variety of experiences all across tech, so I'm open to work on anything!
 
-### I'm currently learning / working on projects using:
-- **NextJS + React**
-- **NLP with PyTorch**
-- **FastAPI**
-
 ### Familiar With
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
