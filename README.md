@@ -6,4 +6,5 @@
 
 ### I'm learning
 - Haskell !
+- Java
 - Untyped Lambda Calculus
