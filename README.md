@@ -7,4 +7,4 @@
 ### I'm learning
 - Haskell !
 - Java
-- Untyped Lambda Calculus
+- Untyped Lambda Calculus (not a language but still computing!)
